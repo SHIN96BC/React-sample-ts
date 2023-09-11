@@ -1,5 +1,5 @@
 import {useRoutes} from "react-router-dom";
 
-const Routes = () => useRoutes([]);
+const Router = () => useRoutes([]);
 
-export default Routes;
+export default Router;
